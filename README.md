@@ -1,2 +1,3 @@
-# ikan_yolov3
-download weight di : https://uc323eaf5f2111cac2c8d55ce1e1.dl.dropboxusercontent.com/cd/0/get/BjqgfGPn3NQPiOP8lHUT-H5YPSyf3BWSpIyA1OhtoRiT7dvC2sX0PtsoAJBRMccIElUF3cNX6oecerGozH_shTUszeaXq796H_lQ5XNja_wDuZw6p7o_25KuDTtgT6F7wUC1h-7YRumMSwgsmMvPMo3uy7W_Yn0ovajmFissyVVGqQ/file?_download_id=389293108216170679530288341982644953702496724141622006315603761295&_notify_domain=www.dropbox.com&dl=1
+# ikan_yolo![Screenshot (198)](https://user-images.githubusercontent.com/60550345/163952813-1ba871ca-3dc0-41ce-ae13-c059c35019df.png)
+v3
+download weight di : https://drive.google.com/file/d/1pto4oDSOcCkQfFwutOx4m5SPTV0yTUM-/view?usp=sharing
